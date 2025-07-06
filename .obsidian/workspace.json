@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "5586105b3f4a3544",
+    "type": "split",
+    "children": [
+      {
+        "id": "287033109d59ef77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fcbf3d9b6935d37",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 721.6562373495999,
+                  "y": -540.5276757810424,
+                  "zoom": -1.1372659138232468
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "55694b298eda7611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts for AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompts for AI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc7b039f1e9fd2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "009fc9ee0b0fba75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8473d337bc28dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65bb3d63d8d1e1fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43fb396d05d894f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353
+  },
+  "right": {
+    "id": "a1b8018fbad3638d",
+    "type": "split",
+    "children": [
+      {
+        "id": "179916d6ba5beeb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d800ece00d9af9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "08a91e3acde0c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b1743b5c8b0e6fb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e338803d4ec9367",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          },
+          {
+            "id": "79b398914fcb7ab1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "614226048737ebbf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "55694b298eda7611",
+  "lastOpenFiles": [
+    "Index/AWS.md",
+    "Discuss with ZhengYang.md",
+    "Notes/Upload Images to S3 Bucket.md",
+    "Index/Javascript.md",
+    "Dashboard.canvas",
+    "Attachments/s3-2.png",
+    "Attachments/s3-1.png",
+    "Notes/Checking Out Pull Request Locally.md",
+    "Prompts for AI.md",
+    "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
+    "Notes/Function Overload vs. Generic in Typescript.md",
+    "Index/Typescript.md",
+    "Notes/Ways to Define Function Signatures.md",
+    "Notes/Vue Router Hook Causing Infinite Page Loop.md",
+    "Attachments/SCR-20250629-mfis.png",
+    "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
+    "Notes/Extracting Union Type from Enum Values.md",
+    "Notes/How to Inspect FormData.md",
+    "Notes/Mapped Types.md",
+    "Canvas/薪資詳情.canvas",
+    "Index/Problem.md",
+    "Notes/Parent Vue Route Hooks Get Called.md",
+    "Index/Vue.md",
+    "Notes/Enforcing Object Keys with Enums.md",
+    "Index/Git.md",
+    "Index.md",
+    "Index",
+    "Attachments/pull-request-id-number.webp",
+    "Attachments",
+    "Canvas",
+    "Meetings",
+    "Indices",
+    "test.md",
+    "My code file.ts",
+    "Notes",
+    "Scott.md",
+    "Arrival.md",
+    "Pedro.md",
+    "test",
+    "123",
+    "Home",
+    "Pasted image 20250624001716.png",
+    "Pasted image 20250624001836.png"
+  ]
+}

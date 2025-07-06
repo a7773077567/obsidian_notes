@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"20f78993b04c626a","type":"group","x":-760,"y":-1840,"width":3860,"height":2120,"label":"⚡Index"},
+		{"id":"50fe64831f6e1296","type":"file","file":"Prompts for AI.md","x":-540,"y":-2460,"width":560,"height":440},
+		{"id":"01111be8a2163c88","type":"file","file":"Index/Typescript.md","x":340,"y":-1760,"width":800,"height":840,"color":"3"},
+		{"id":"7c9cbf4776df615a","type":"file","file":"Index/Git.md","x":-580,"y":-1760,"width":800,"height":840},
+		{"id":"ece8e49f156050c3","type":"file","file":"Index/Problem.md","x":-580,"y":-800,"width":800,"height":840,"color":"1"},
+		{"id":"45a34623ee11de54","type":"file","file":"Index/Javascript.md","x":1240,"y":-1760,"width":800,"height":840,"color":"3"},
+		{"id":"70db4e464e172d65","type":"file","file":"Index/Vue.md","x":2140,"y":-1760,"width":800,"height":840,"color":"4"},
+		{"id":"0459ffcd9711a2cf","x":340,"y":-800,"width":800,"height":840,"type":"file","file":"Index/AWS.md"}
+	],
+	"edges":[]
+}

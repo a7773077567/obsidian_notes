@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"848974b88081b1c2","type":"group","x":-80,"y":-100,"width":890,"height":340,"label":"各薪資詳情頁面"},
+		{"id":"99a680d72252c123","type":"group","x":20,"y":460,"width":632,"height":100,"label":"教練薪資詳情頁面"},
+		{"id":"f549d33fdce36bbb","type":"text","text":"**Home**","x":-170,"y":-800,"width":250,"height":60},
+		{"id":"4d58b5a2d2e2b7df","type":"text","text":"**薪資詳情**\nSalaryReport","x":-170,"y":-680,"width":250,"height":60},
+		{"id":"21b04a2123fa88c0","type":"text","text":"**密碼驗證頁**\nsalaryReportAuthentication\n\n輸入登入密碼以前往各人員詳情頁面","x":-420,"y":-480,"width":260,"height":160},
+		{"id":"f5cde7fbc8791304","type":"text","text":"**各人員詳情**\nsalaryReportDetails\n\nbeforeEnter 檢查是否已經密碼驗證，決定是否導回密碼驗證頁\n\n如有驗證，store 設定為 false\n\n如果使用者為系統管理者，則顯示下拉選單，可以選擇觀看任一員工的薪資詳情，選擇後前往相對應身份的頁面\n\n如果非管理者則根據當前使用者身份決定前往頁面","x":190,"y":-480,"width":250,"height":240},
+		{"id":"c0ea14995b816e47","type":"text","text":"**治療師薪資詳情**\nsalaryReportTherapist","x":-60,"y":-60,"width":250,"height":280},
+		{"id":"99b517d0962215b2","type":"text","text":"**教練薪資詳情**\nsalaryReportCoach\n\n根據是否兼職決定前往頁面\n\n*是否要再分 route？*","x":225,"y":-60,"width":250,"height":280},
+		{"id":"fcfc8431b1a92ef2","type":"text","text":"**櫃檯薪資詳情**\nsalaryReportCounter","x":540,"y":-60,"width":250,"height":280},
+		{"id":"e4f464269f854389","type":"text","text":"**正職人員**","x":40,"y":480,"width":250,"height":60},
+		{"id":"b94d5c12d695346d","type":"text","text":"**兼職人員**","x":382,"y":480,"width":250,"height":60},
+		{"id":"bbb75f65249a05c8","x":507,"y":-650,"width":303,"height":410,"color":"4","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"332c251dd608c6ef","fromNode":"f549d33fdce36bbb","fromSide":"bottom","toNode":"4d58b5a2d2e2b7df","toSide":"top"},
+		{"id":"d2ad8f63cdc6b9fc","fromNode":"4d58b5a2d2e2b7df","fromSide":"bottom","toNode":"21b04a2123fa88c0","toSide":"top"},
+		{"id":"32d1a9140fa3ad31","fromNode":"4d58b5a2d2e2b7df","fromSide":"bottom","toNode":"f5cde7fbc8791304","toSide":"top"},
+		{"id":"92724615d91e7ab4","fromNode":"f5cde7fbc8791304","fromSide":"left","toNode":"21b04a2123fa88c0","toSide":"bottom"},
+		{"id":"1a1a4039d1de17ca","fromNode":"99b517d0962215b2","fromSide":"bottom","toNode":"99a680d72252c123","toSide":"top","label":"TBD"},
+		{"id":"baade3ed9e5431bd","fromNode":"f5cde7fbc8791304","fromSide":"bottom","toNode":"848974b88081b1c2","toSide":"top"}
+	]
+}
