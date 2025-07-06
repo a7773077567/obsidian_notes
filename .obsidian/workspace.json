@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "287033109d59ef77",
+        "id": "8c60907457a61fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "2fcbf3d9b6935d37",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 721.6562373495999,
-                  "y": -540.5276757810424,
-                  "zoom": -1.1372659138232468
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "55694b298eda7611",
+            "id": "c737eeef33a49d27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,8 +21,7 @@
               "title": "Prompts for AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +165,13 @@
             }
           },
           {
-            "id": "614226048737ebbf",
+            "id": "1326caf6561477cd",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -197,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,17 +193,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55694b298eda7611",
+  "active": "c737eeef33a49d27",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Prompts for AI.md",
     "Index/AWS.md",
     "Discuss with ZhengYang.md",
     "Notes/Upload Images to S3 Bucket.md",
     "Index/Javascript.md",
-    "Dashboard.canvas",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
     "Notes/Checking Out Pull Request Locally.md",
-    "Prompts for AI.md",
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
     "Notes/Function Overload vs. Generic in Typescript.md",
     "Index/Typescript.md",

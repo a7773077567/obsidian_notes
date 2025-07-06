@@ -12,3 +12,4 @@ tags:
 
 > [!NOTE] Code Review 英文
 > 我正在幫別人 code review，我試著用英文寫下 comment，接下來我會給你我的 comment，請審視我的寫法，必要時修改我的語句，讓其通暢自然，並用繁體中文回答我
+
