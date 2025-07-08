@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts for AI.md",
+                "file": "Connecting to the Google Sheets API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts for AI"
+              "title": "Connecting to the Google Sheets API"
             }
           }
         ],
@@ -213,10 +213,10 @@
   },
   "active": "d15140883630d218",
   "lastOpenFiles": [
-    "Connect  d.md",
+    "Prompts for AI.md",
+    "Connecting to the Google Sheets API.md",
     "Dashboard.canvas",
     "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
-    "Prompts for AI.md",
     "Index/AWS.md",
     "Discuss with ZhengYang.md",
     "Notes/Upload Images to S3 Bucket.md",
