@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 348.85619385927134,
-                  "y": -946.7367078449106,
-                  "zoom": -1.5782569046657122
+                  "x": 6.881240504327945,
+                  "y": -1017.0690935562341,
+                  "zoom": -0.5782569046657121
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -66,8 +66,7 @@
               "title": "Create a React Project"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,11 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2139240b684fd6e4",
+  "active": "727a95be1ee39594",
   "lastOpenFiles": [
+    "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Notes/Miscellaneous Nots on Learning React.md",
     "Create a React Project.md",
-    "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Dashboard.canvas",
     "Index/React.md",
     "Index/GCP.md",
