@@ -10,7 +10,6 @@ description: 學習 Node.js 的一些雜記
 
 - Nodejs 跟 Browser 都是使用 V8 來將程式碼編譯成 machine code，而 V8 是使用 C++ 寫成的
 - Nodejs 本身就可以作為 server，它自己就可以執行 javascript，這點跟 PHP 不一樣，PHP 則是程式碼是交由 apache 或 nginx 來決定是否執行
-- 
 
 ## Functions
 
