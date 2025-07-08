@@ -4,11 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8c60907457a61fc4",
+        "id": "18bb8f1adb0278d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c737eeef33a49d27",
+            "id": "727a95be1ee39594",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 1040.5615034983668,
+                  "y": -697.4410381022451,
+                  "zoom": -1.194923571332379
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "d15140883630d218",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +38,8 @@
               "title": "Prompts for AI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,9 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c737eeef33a49d27",
+  "active": "d15140883630d218",
   "lastOpenFiles": [
+    "Connect  d.md",
     "Dashboard.canvas",
+    "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
     "Prompts for AI.md",
     "Index/AWS.md",
     "Discuss with ZhengYang.md",
@@ -210,7 +230,6 @@
     "Notes/Ways to Define Function Signatures.md",
     "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "Attachments/SCR-20250629-mfis.png",
-    "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
     "Notes/Extracting Union Type from Enum Values.md",
     "Notes/How to Inspect FormData.md",
     "Notes/Mapped Types.md",
@@ -232,7 +251,6 @@
     "Notes",
     "Scott.md",
     "Arrival.md",
-    "Pedro.md",
     "test",
     "123",
     "Home",
