@@ -28,4 +28,8 @@ description: 學習 Node.js 的一些雜記
 	- run server - create server & listen to incoming requests
 	- business logic - handle request, validate input, connect to database
 	- responses - return responses, rendered HTML, JSON...
-- 
+- The REPL
+	- Read - Read user input
+	- Eval - Evaluate user input
+	- Print Print output (result)
+	- Loop - Wait for new input
