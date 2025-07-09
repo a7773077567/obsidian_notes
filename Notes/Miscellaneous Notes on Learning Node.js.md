@@ -22,7 +22,7 @@ description: 學習 Node.js 的一些雜記
 	- createServer 回傳的是 http.Server class，我們可以使用 server.listen 啟動一個 HTTP server
 	- listener 會收到兩個參數，分別是 req 跟 res
 		-  可以透過 req 拿到很多資訊，包括 url、method 及 headers 等等
-		- 我們可以透過 res 回應使用者，例如透過 res.setHeader 寫入 Content-Type，或者使用 res.write 寫入 html，最後在使用 res.end 結束這個回應，suo yosuoyo
+		- 我們可以透過 res 回應使用者，例如透過 res.setHeader 寫入 Content-Type，或者使用 res.write 寫入 html，最後使用 res.end 來將
 
 ## Concepts
 
