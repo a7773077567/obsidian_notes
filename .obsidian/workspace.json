@@ -11,17 +11,14 @@
             "id": "0538087ac1e09a8a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 1200.8687232467669,
-                  "y": 123.03081747310988,
-                  "zoom": -1.2966594745663704
-                }
+                "file": "Notes/Stream & Buffer in Node.js.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Stream & Buffer in Node.js"
             }
           },
           {
@@ -212,8 +209,10 @@
   },
   "active": "0538087ac1e09a8a",
   "lastOpenFiles": [
-    "Notes/How to Set Response Headers in Node.js.md",
+    "Attachments/SCR-20250710-cznj.png",
     "Dashboard.canvas",
+    "Notes/Stream & Buffer in Node.js.md",
+    "Notes/How to Set Response Headers in Node.js.md",
     "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Notes/Miscellaneous Nots on Learning React.md",
     "Notes/Create a React Project.md",
@@ -240,7 +239,6 @@
     "Attachments/SCR-20250629-mfis.png",
     "Notes/Extracting Union Type from Enum Values.md",
     "Notes/How to Inspect FormData.md",
-    "Notes/Mapped Types.md",
     "Canvas/薪資詳情.canvas",
     "Index",
     "Attachments/pull-request-id-number.webp",
