@@ -10,7 +10,7 @@
 		{"id":"45a34623ee11de54","type":"file","file":"Index/Javascript.md","x":333,"y":-1760,"width":800,"height":840,"color":"3"},
 		{"id":"0459ffcd9711a2cf","type":"file","file":"Index/AWS.md","x":-640,"y":160,"width":800,"height":840},
 		{"id":"31924f8799eb6261","type":"file","file":"Index/GCP.md","x":333,"y":160,"width":800,"height":840},
-		{"id":"4f3392f653d25b52","x":333,"y":-800,"width":800,"height":840,"type":"file","file":"Index/Node.js.md"}
+		{"id":"4f3392f653d25b52","type":"file","file":"Index/Node.js.md","x":1306,"y":160,"width":800,"height":840}
 	],
 	"edges":[]
 }
