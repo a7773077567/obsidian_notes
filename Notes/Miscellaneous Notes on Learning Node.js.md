@@ -15,7 +15,8 @@ description: 學習 Node.js 的一些雜記
 ## Functions
 
 - 可以使用 writeFileSync 寫入檔案
--  
+-  我們可以從 core module 中引入 http class 來創造一個 server 並運行 - `http.createServer`
+	- 
 
 ## Concepts
 
