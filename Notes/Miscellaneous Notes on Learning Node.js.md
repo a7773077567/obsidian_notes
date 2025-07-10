@@ -23,6 +23,7 @@ description: 學習 Node.js 的一些雜記
 	- listener 會收到兩個參數，分別是 req 跟 res
 		-  可以透過 req 拿到很多資訊，包括 url、method 及 headers 等等
 		- 我們可以透過 res 回應使用者，例如透過 res.setHeader 寫入 Content-Type，或者使用 res.write 寫入 html，最後使用 res.end 來回應這個請求，而在 res.end 之後在使用 res.write 或 res.setHeader 等就會報錯
+- 就算已經回應使用者也不代表 event listener 會被刪除，例如就算已經回應使用者，req.on('data') 跟 req.on('end') 仍然會繼續監聽跟執行對應的 handler
 - 
 
 ## Concepts
