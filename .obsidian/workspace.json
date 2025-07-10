@@ -8,6 +8,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "774179c13a1a4e3c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 624.5625131902784,
+                  "y": 1225.3653375499168,
+                  "zoom": -2.1666594745663708
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          },
+          {
             "id": "30c4d34b2b9cef7c",
             "type": "leaf",
             "state": {
@@ -19,6 +36,20 @@
               },
               "icon": "lucide-file",
               "title": "Miscellaneous Notes on Learning Node.js"
+            }
+          },
+          {
+            "id": "e13536e0f8b7be45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/WriteFileSync vs. WriteFile in Node.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WriteFileSync vs. WriteFile in Node.js"
             }
           }
         ]
@@ -193,17 +224,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c4d34b2b9cef7c",
+  "active": "774179c13a1a4e3c",
   "lastOpenFiles": [
+    "Notes/Miscellaneous Notes on Learning Node.js.md",
+    "Notes/WriteFileSync vs. WriteFile in Node.js.md",
+    "Dashboard.canvas",
+    "Notes/Understanding Nodejs's Event-Driven Architecture.md",
+    "dash.md",
     "Notes/Miscellaneous Nots on Learning React.md",
     "U.md",
     "Notes/Stream & Buffer in Node.js.md",
     "Attachments/SCR-20250710-lmpq.png",
     "Attachments/SCR-20250710-lmjd.png",
     "Attachments/SCR-20250710-cznj.png",
-    "Dashboard.canvas",
     "Notes/How to Set Response Headers in Node.js.md",
-    "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Notes/Create a React Project.md",
     "Index/Node.js.md",
     "Prompts for AI.md",
@@ -223,11 +257,7 @@
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
     "Notes/Function Overload vs. Generic in Typescript.md",
     "Index/Typescript.md",
-    "Notes/Ways to Define Function Signatures.md",
-    "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "Attachments/SCR-20250629-mfis.png",
-    "Notes/Extracting Union Type from Enum Values.md",
-    "Notes/How to Inspect FormData.md",
     "Canvas/薪資詳情.canvas",
     "Index",
     "Attachments/pull-request-id-number.webp",
