@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -564.4531387155621,
-                  "y": -2146.5158119321613,
-                  "zoom": -1.669992807899704
+                  "x": 264.1735318968098,
+                  "y": -240.67446952370713,
+                  "zoom": -2.1566594745663705
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,16 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Miscellaneous Notes on Learning Node.js.md",
+                "file": "Notes/Asynchronous in Nodejs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous Notes on Learning Node.js"
+              "title": "Asynchronous in Nodejs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c4d34b2b9cef7c",
+  "active": "774179c13a1a4e3c",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "Notes/Asynchronous in Nodejs.md",
+    "Attachments/SCR-20250711-tqil.png",
     "Notes/Miscellaneous Notes on Learning Node.js.md",
+    "Dashboard.canvas",
     "Notes/WriteFileSync vs. WriteFile in Node.js.md",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
@@ -258,7 +258,6 @@
     "Notes",
     "test",
     "123",
-    "Home",
-    "Pasted image 20250624001716.png"
+    "Home"
   ]
 }
