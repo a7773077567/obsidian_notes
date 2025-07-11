@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 1631.7993927211098,
-                  "y": 335.86620573420396,
-                  "zoom": 0.3533405254336306
+                  "x": 46.5445527147992,
+                  "y": -1761.340699687631,
+                  "zoom": -1.18665947456637
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c4d34b2b9cef7c",
+  "active": "143f46ac4d0f6959",
   "lastOpenFiles": [
-    "Notes/WriteFileSync vs. WriteFile in Node.js.md",
-    "Notes/Miscellaneous Notes on Learning Node.js.md",
-    "Asynchronous in Nodejs.md",
     "Dashboard.canvas",
+    "Notes/Miscellaneous Notes on Learning Node.js.md",
+    "Notes/WriteFileSync vs. WriteFile in Node.js.md",
+    "Asynchronous in Nodejs.md",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
     "Notes/Understanding Nodejs's Event-Driven Architecture.md",
