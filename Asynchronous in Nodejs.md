@@ -21,6 +21,6 @@ Nodejs 的 Event Loop 有以下 Phases：
 5. Close Callbacks
 6. 是否關閉程式
 
-可以將
+可以將 Event Loop 想像成一個超級主管，他效率極高但一次只能做一件事，他的工作任務就是將任務分派給各個不同的人處理，相辦法
 
 ![[SCR-20250710-ocbt.png]]
