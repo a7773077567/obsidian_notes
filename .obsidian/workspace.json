@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 87.42694949331495,
-                  "y": -1283.358979201695,
-                  "zoom": -0.26999280789970503
+                  "x": -322.09761621293205,
+                  "y": -1617.7541519119618,
+                  "zoom": -0.9599928078997029
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,8 +38,7 @@
               "title": "Types of Errors in JS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20c837889221cd8a",
+  "active": "ee8473d337bc28dc",
   "lastOpenFiles": [
+    "Index/VSCode.md",
     "Dashboard.canvas",
     "Types of Errors in JS.md",
+    "Notes/VSCode debug breakpoints beside line number disappear.md",
     "Notes/Understanding Nodejs's Event-Driven Architecture.md",
     "Notes/Run NPM Script without Run Command.md",
     "Notes/Asynchronous in Nodejs.md",
@@ -243,8 +244,6 @@
     "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
     "Index/AWS.md",
     "Discuss with ZhengYang.md",
-    "Notes/Upload Images to S3 Bucket.md",
-    "Index/Javascript.md",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
     "Attachments/SCR-20250629-mfis.png",
