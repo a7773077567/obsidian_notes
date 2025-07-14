@@ -15,16 +15,31 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 861.1899751617734,
-                  "y": -1278.8733964441967,
+                  "x": 87.42694949331495,
+                  "y": -1283.358979201695,
                   "zoom": -0.26999280789970503
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "20c837889221cd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Errors in JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Errors in JS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee8473d337bc28dc",
+  "active": "20c837889221cd8a",
   "lastOpenFiles": [
-    "Notes/Understanding Nodejs's Event-Driven Architecture.md",
     "Dashboard.canvas",
+    "Types of Errors in JS.md",
+    "Notes/Understanding Nodejs's Event-Driven Architecture.md",
     "Notes/Run NPM Script without Run Command.md",
     "Notes/Asynchronous in Nodejs.md",
     "Notes/Check if Time Duration Are Overlap.md",
@@ -231,7 +247,6 @@
     "Index/Javascript.md",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
-    "Notes/Checking Out Pull Request Locally.md",
     "Attachments/SCR-20250629-mfis.png",
     "Canvas/薪資詳情.canvas",
     "Index",
