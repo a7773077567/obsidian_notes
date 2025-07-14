@@ -5,7 +5,7 @@ tags:
   - node
   - js
   - event
-description:
+description: 理解 nodejs 的事件驅動哲學
 ---
 由於 JS 是 single-thread，為了達到 non-block 的目的，Nodejs 被設計成以事件驅動為主的程式。可想而知，Nodejs 會有非常多的 event 可以使用，我們在註冊事件的同時也會傳入非常多的 event handler callback。
 
