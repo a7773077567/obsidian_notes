@@ -15,13 +15,41 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 1417.6505654750902,
-                  "y": 708.4793639306014,
-                  "zoom": -1.9216845806178096
+                  "x": 1465.8976864609929,
+                  "y": 439.85553046446086,
+                  "zoom": 0.32831541938219083
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
+            }
+          },
+          {
+            "id": "575a33ea5fcad25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Miscellaneous Notes on Learning Node.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miscellaneous Notes on Learning Node.js"
+            }
+          },
+          {
+            "id": "9dae3389a072184a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous Notes on Learning Express.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miscellaneous Notes on Learning Express"
             }
           },
           {
@@ -38,7 +66,8 @@
               "title": "Types of Errors in JS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,13 +239,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "774179c13a1a4e3c",
+  "active": "9dae3389a072184a",
   "lastOpenFiles": [
+    "Notes/Miscellaneous Notes on Learning Node.js.md",
+    "Dashboard.canvas",
+    "Miscellaneous Notes on Learning Express.md",
     "Notes/Configuration of Nodejs Debugging Mode in VSCode.md",
     "`=.md",
     "Index/Node.js.md",
     "Types of Errors in JS.md",
-    "Dashboard.canvas",
     "Index/VSCode.md",
     "Notes/VSCode debug breakpoints beside line number disappear.md",
     "Notes/Understanding Nodejs's Event-Driven Architecture.md",
@@ -224,7 +255,6 @@
     "Notes/Asynchronous in Nodejs.md",
     "Notes/Check if Time Duration Are Overlap.md",
     "Attachments/SCR-20250711-tqil.png",
-    "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Notes/WriteFileSync vs. WriteFile in Node.js.md",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
@@ -243,7 +273,6 @@
     "Notes/Connecting to the Google Sheets API.md",
     "Notes/Use Pinia with Abstract  Common Store.md",
     "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
-    "Index/AWS.md",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
     "Attachments/SCR-20250629-mfis.png",
