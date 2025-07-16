@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous Notes on Learning Express.md",
+                "file": "Notes/Miscellaneous Notes on Learning Express.md",
                 "mode": "source",
                 "source": false
               },
@@ -241,13 +241,13 @@
   },
   "active": "9dae3389a072184a",
   "lastOpenFiles": [
+    "Types of Errors in JS.md",
+    "Notes/Miscellaneous Notes on Learning Express.md",
     "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Dashboard.canvas",
-    "Miscellaneous Notes on Learning Express.md",
     "Notes/Configuration of Nodejs Debugging Mode in VSCode.md",
     "`=.md",
     "Index/Node.js.md",
-    "Types of Errors in JS.md",
     "Index/VSCode.md",
     "Notes/VSCode debug breakpoints beside line number disappear.md",
     "Notes/Understanding Nodejs's Event-Driven Architecture.md",
