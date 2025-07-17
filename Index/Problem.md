@@ -7,4 +7,5 @@ tags:
 TABLE
 description as Description
 WHERE category != "indxe" AND type = "problem"
+SORT file.name
 ```
