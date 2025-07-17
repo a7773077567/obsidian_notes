@@ -15,13 +15,27 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -351.80625840103164,
-                  "y": -1790.9232804576868,
-                  "zoom": -0.9216845806178081
+                  "x": 602.0506027663125,
+                  "y": -1353.5218519054322,
+                  "zoom": -0.06168458061780769
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
+            }
+          },
+          {
+            "id": "feb3f86bc0ce16dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is URLSearchParams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is URLSearchParams"
             }
           },
           {
@@ -39,20 +53,6 @@
             }
           },
           {
-            "id": "a8e76c48ab135a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why Do We Need Body-Parser for Nodejs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why Do We Need Body-Parser for Nodejs"
-            }
-          },
-          {
             "id": "20c837889221cd8a",
             "type": "leaf",
             "state": {
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +239,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8e76c48ab135a9e",
+  "active": "feb3f86bc0ce16dc",
   "lastOpenFiles": [
-    "Notes/Miscellaneous Notes on Learning Express.md",
-    "Why Do We Need Body-Parser for Nodejs.md",
     "Dashboard.canvas",
+    "What is URLSearchParams.md",
+    "Notes/What is FormData.md",
+    "Index/Javascript.md",
+    "Notes/Miscellaneous Notes on Learning Express.md",
+    "Notes/Why Do We Need Body-Parser for Nodejs.md",
     "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Types of Errors in JS.md",
     "Notes/Configuration of Nodejs Debugging Mode in VSCode.md",
@@ -270,10 +273,6 @@
     "Notes/Create a React Project.md",
     "Prompts for AI.md",
     "Index/React.md",
-    "Index/GCP.md",
-    "Notes/Connecting to the Google Sheets API.md",
-    "Notes/Use Pinia with Abstract  Common Store.md",
-    "Notes/Set Upstream for Local Git Branch to  Specific Remote.md",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
     "Attachments/SCR-20250629-mfis.png",
