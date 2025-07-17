@@ -10,7 +10,7 @@ resource_1: https://ithelp.ithome.com.tw/m/articles/10241083
 ---
 在原生的 Nodejs 中接收資料其實是一件很麻煩的事，我們必須監聽 req.on('data') 跟 req.on('end') 事件，將每個 buffer chunk 轉換成其他可用的格式，就算我們只是傳輸 application/x-www-form-urlencoded，瀏覽器也會將其轉換成  buffer chunk。
 
-我們可以使用 body-parser 來幫我們處理這件繁瑣且重複的事，例如可以使用 bodyParser.urlencoded 來處理用 application/x-www-form-urlencoded 格式傳輸的資料，它會將處理好的資料包進 req.body 中，如果沒有使用 parser，req.body 會是 undefined。
+我們可以使用 body-parser 來幫我們處理這件繁瑣且重複的事，例如可以使用 bodyParser.urlencoded 來處理用 application/x-www-form-urlencoded 格式傳輸的資料，它會將處理好的資料包進 req.body 中，如果沒有使用 parser，req.body 會是 undefined，因為原生的 http.IncomingMessage 並沒有 body。
 
 bodyParser.urlencoded() 會回傳一個 middleware function，因此我們可以直接將其作為 app.use callback 參數，並且它似乎會在內部呼叫 next。
 
