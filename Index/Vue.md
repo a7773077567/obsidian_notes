@@ -9,5 +9,6 @@ TABLE WITHOUT ID
 type as Type, rows.file.link as File, rows.description as Description
 FROM #vue
 WHERE category != "index"
+SORT file.name
 GROUP BY type
 ```
