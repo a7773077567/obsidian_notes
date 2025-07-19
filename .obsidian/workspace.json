@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 747.0464811260699,
-                  "y": 660.7786446848959,
-                  "zoom": -1.2899999999999998
+                  "x": -1633.0548012590775,
+                  "y": -1451.5787806909436,
+                  "zoom": 0.42999999999999977
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -226,10 +226,11 @@
   },
   "active": "774179c13a1a4e3c",
   "lastOpenFiles": [
+    "The Path in app.use vs app.Method.md",
+    "Dashboard.canvas",
     "Notes/What is FormData.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "What Data Types Go in a Request Body.md",
-    "Dashboard.canvas",
     "Types of Errors in JS.md",
     "Index/Info.md",
     "Index/Tip.md",
@@ -251,8 +252,6 @@
     "Notes/Miscellaneous Notes on Learning Node.js.md",
     "Notes/Configuration of Nodejs Debugging Mode in VSCode.md",
     "`=.md",
-    "Index/Node.js.md",
-    "Notes/VSCode debug breakpoints beside line number disappear.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
