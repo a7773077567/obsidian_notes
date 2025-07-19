@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -1633.0548012590775,
-                  "y": -1451.5787806909436,
-                  "zoom": 0.42999999999999977
+                  "x": 492.58428731369725,
+                  "y": -1975.0984076063435,
+                  "zoom": -2.0399999999999987
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,7 +52,8 @@
               "title": "Types of Errors in JS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "774179c13a1a4e3c",
+  "active": "9dae3389a072184a",
   "lastOpenFiles": [
-    "The Path in app.use vs app.Method.md",
     "Dashboard.canvas",
+    "The Path in app.use vs app.Method.md",
     "Notes/What is FormData.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "What Data Types Go in a Request Body.md",
