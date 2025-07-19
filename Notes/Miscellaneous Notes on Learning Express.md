@@ -23,4 +23,5 @@ description: 學習 express 的一些雜記
 	- `path.dirname(process.mainModule.filename)` (deprecated)
 		- path.dirname 可以將一個檔案路徑去除檔案的 segment，得到其資料夾的路徑
 		- require.main.filename 跟 process.mainModule.filename 都可以取得專案資料夾的 root，也就是我們用 node 指令執行的那隻檔案，通常會是 app.js、index.js 或是 server.js 等等...
-- 
+- 當我們連線到一個 server 時，理論上我們可以根據正確路徑取得存在檔案系統的檔案，但實際上 server 會設置權限防止使用者隨意存取各個檔案，例如 express 就會根據使用者的路徑找到對應的 middleware 並給予相對應的檔案、資料或行為，沒有 match 到的一律拒絕存取。但有時候有些檔案我們會想要讓其可以公開存取，我們會將其放在一個慣用名稱為 public 的資料夾，並透過 express 將其設定為 static 資料夾，此路徑底下的請求便不需要經過 middleware 即可直接存取。
+	- `app.use(express.static(path.join(__dirname, 'public')))`
