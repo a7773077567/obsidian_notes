@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 492.58428731369725,
-                  "y": -1975.0984076063435,
-                  "zoom": -2.0399999999999987
+                  "x": -309.5029429975925,
+                  "y": -1942.7845552231802,
+                  "zoom": -1.0437614283676906
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -228,15 +228,15 @@
   "active": "9dae3389a072184a",
   "lastOpenFiles": [
     "Dashboard.canvas",
+    "Prompts for AI.md",
+    "Notes/Miscellaneous Notes on Learning Express.md",
     "The Path in app.use vs app.Method.md",
     "Notes/What is FormData.md",
-    "Notes/Miscellaneous Notes on Learning Express.md",
     "What Data Types Go in a Request Body.md",
     "Types of Errors in JS.md",
     "Index/Info.md",
     "Index/Tip.md",
     "Notes/req.url Always Gives Me Root Path No Matter What Path I Use.md",
-    "Prompts for AI.md",
     "Index/Problem.md",
     "Index/VSCode.md",
     "Index/GCP.md",

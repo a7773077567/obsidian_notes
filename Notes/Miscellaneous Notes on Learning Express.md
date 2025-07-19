@@ -12,4 +12,9 @@ description: 學習 express 的一些雜記
 - 如果 middleware 沒有指定 path，那麼將會由註冊的順序由上而下往下依順序決定是否執行，middlerware 中如果有呼叫 next()，將會前往下一個 middleware。
 - 當瀏覽器收到的 response 是 html 時，瀏覽器會再往伺服器發送 /favicon.ico 的請求。
 - 我們可以將 html 檔存放在 views 資料夾下，然後利用 res.sendFile 選取對應的 html 檔發送。但需要注意路徑的填寫方式，如果直接指名 / 會是這台電腦的 root 而非此專案資料夾的 root，但如果使用 ../ 或 ./ 會得到必須使用絕對路徑的錯誤回報；我們可以使用 node core module 的 path module 加上 node 的全域變數 `__dirname` 來組合正確的絕對路徑，例如
-	- `path.join(__dirname, '../', 'views', 'shop.html')`
+	- `path.join(__dirname, '..', 'views', 'shop.html')`
+	- path.join 可以將 path segment 組合成一個完整的 path string
+	- path.join 會自動加上 /，所以每個 segment 可以忽略填寫 /
+	- path.join 有一個很重要的功能，它可以偵測目前的作業系統，組合成符合系統的正確路徑
+		- linux 使用 / (slash) 作為路徑的 segment 分隔
+		- windows 使用 \ (back slash) 作為路徑的 segment 分隔
