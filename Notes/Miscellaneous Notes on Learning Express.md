@@ -18,3 +18,9 @@ description: 學習 express 的一些雜記
 	- path.join 有一個很重要的功能，它可以偵測目前的作業系統，組合成符合系統的正確路徑
 		- linux 使用 / (slash) 作為路徑的 segment 分隔
 		- windows 使用 \ (back slash) 作為路徑的 segment 分隔
+- 可以創造一個 helper module 來提供我們正確的專案 root 絕對路徑，例如以下
+	- `path.dirname(require.main.filename)`
+	- `path.dirname(process.mainModule.filename)` (deprecated)
+		- path.dirname 可以將一個檔案路徑去除檔案的 segment，得到其資料夾的路徑
+		- require.main.filename 跟 process.mainModule.filename 都可以取得專案資料夾的 root，也就是我們用 node 指令執行的那隻檔案，通常會是 app.js、index.js 或是 server.js 等等...
+- 
