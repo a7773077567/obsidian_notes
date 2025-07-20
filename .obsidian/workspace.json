@@ -49,7 +49,8 @@
               "title": "Types of Errors in JS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a24a77a2a0120c",
+  "active": "774179c13a1a4e3c",
   "lastOpenFiles": [
+    "Alternative Props Syntax in React.md",
     "Dashboard.canvas",
     "Notes/Miscellaneous Nots on Learning React.md",
-    "Alternative Props Syntax in React.md",
     "Types of Errors in JS.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "Prompts for AI.md",
