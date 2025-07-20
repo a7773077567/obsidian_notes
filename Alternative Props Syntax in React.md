@@ -24,3 +24,22 @@ description: 傳 props 進入 react component 的另一種技巧
 
 > [!WARNING] Filed Name
 > 自然，此物件的屬性名稱必須跟元件的名稱一致，否則會沒有作用
+
+除了使用展開運算子來傳入一個物件 props，也可以使用 rest operator 來收集 props，例如以下：
+
+```jsx
+<CoreConcept
+  title={CORE_CONCEPTS[0].title}
+  description={CORE_CONCEPTS[0].description}  
+  image={CORE_CONCEPTS[0].image}
+/>
+```
+
+```jsx
+export default function CoreConcept({ ...concept }) { 
+  // ...concept groups multiple values into a single object
+  // Use concept.title, concept.description etc.
+  // Or destructure the concept object: const { title, description, image } = concept;
+}
+```
+
