@@ -17,3 +17,4 @@ description: 學習 React.js 的一些雜記
 - 我們可以在 custom component 中丟入其他 element 或 content，稱之為 component composition，就像 Vue 的 slot 一樣。
 	- 這個 element 或 content 會被收集進 props.children
 	- 目前看起來 React 只能傳入一個 children
+- React 在渲染所有元件時，實際上只會渲染一次，也就是元件 function 只會被執行一次，我們可以在元件內的 top-level 寫 log 來驗證這件事。
