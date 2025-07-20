@@ -43,3 +43,57 @@ export default function CoreConcept({ ...concept }) {
 }
 ```
 
+這邊的 `{ ...concept }` 是解構賦值一個很進階的用法，來簡單拆解一下：
+- 首先，所有傳入 CoreConcept 的 props 都會被收集成一個物件並作為第一個參數傳入 CoreConcept
+- 接著我們將第一個參數(props 物件) 進行解構賦值，此時可以將此物件視為展開的狀態，類似這種概念
+	- `title: "Title", description: "Description...", image: "the/image/path"`
+-  此時我們便可以馬上再利用 rest property 將它們收集成一個變數 - `concept` 進而利用
+
+這個做法在實務上可能有其很方便的地方，例如我們可以把某部份的 props 收集起來直接往下傳遞：
+```jsx
+function Caption({ caption, color }) {
+  return <p style={{ color }}>{caption}</p>;
+}
+
+function CoreConcept({ image, title, description, ...captionProps }) {
+  return (
+    <li>
+      <img src={image} alt={title} />
+      <h3>{title}</h3>
+      <p>{description}</p>
+      <Caption {...captionProps} />
+    </li>
+  );
+}
+
+<CoreConcept
+	{...CORE_CONCEPTS[0]}
+	caption="Caption"
+	color="hotpink"
+/>
+```
+
+這也算是一種關注點分離，我們只關注跟 CoreConcept 有關的 Props，其餘的則直接收集起來往下傳遞即可。
+
+另外我們也可以給予在解構賦值的同時給予預設參數，例如以下：
+```jsx
+function Caption({ caption, color = 'hotpink' }) {
+  return <p style={{ color }}>{caption}</p>;
+}
+
+function CoreConcept({ image, title, description, ...captionProps }) {
+  return (
+    <li>
+      <img src={image} alt={title} />
+      <h3>{title}</h3>
+      <p>{description}</p>
+      <Caption {...captionProps} />
+    </li>
+  );
+}
+
+<CoreConcept
+	{...CORE_CONCEPTS[0]}
+	caption="Caption"
+/>
+```
