@@ -34,11 +34,17 @@ state 並非是一般的 JS 變數，它被 React 儲存在 function component �
 }}>+3</button>
 ```
 
-
 > [!TIP] Tip
 > 簡單來說，state 在同一次的渲染內是不會改變的
 
+如果我們想要在同一次的渲染多次改變 state，而這些改動都依賴於前一次的改動，我們可以傳入一個 callback 給 setState，其第一個參數便是當下 state 的最新狀態，而非於當次 component 呼叫的固定值：
+```jsx
+<button onClick={() => {
+  setNumber(previous => previous + 1);
+  setNumber(previous => previous + 1);
+	setNumber(previous => previous + 1);
+}}>+3</button>
+```
 
-
-
+有一件事也很值得注意，component function 每次被呼叫時都會重新呼叫 useState，而其回傳的 state 會是更新後的 state，但 initial value 都是一樣的，因此如果這個 initial 是一個複雜的計算時，我們可以將其移到外面，而非直接在參數的位置進行計算，這有可能會影響到效能。
 
