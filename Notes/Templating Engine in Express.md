@@ -25,3 +25,12 @@ app.set('views', 'views') // 選擇模板引擎資料夾路徑
 res.render('shop') // 透過 express 的 render 即可直接從 views 中挑選要的模板並渲染後回應給 Client
 ```
 
+值得注意的是 express 可以註冊額外的引擎，例如 express-handlebars 是專門給 express 使用的：
+```js
+import { engine } from 'express-handlebars';
+
+app.engine('handlebars', engine());
+app.set('view engine', 'handlebars');
+app.set('views', './views');
+```
+
