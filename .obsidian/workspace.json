@@ -8,6 +8,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f36c97acdec88551",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -278.304212367008,
+                  "y": -1298.3990181475638,
+                  "zoom": -1.5870947617010227
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          },
+          {
             "id": "a0a24a77a2a0120c",
             "type": "leaf",
             "state": {
@@ -193,15 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0a24a77a2a0120c",
+  "active": "f36c97acdec88551",
   "lastOpenFiles": [
+    "Notes/Templating Engine in Express.md",
+    "Notes/Miscellaneous Notes on Learning Express.md",
     "Dashboard.canvas",
     "Notes/Miscellaneous Nots on Learning React.md",
     "Notes/Types of Errors in JS.md",
     "Notes/The Path in app.use vs app.Method.md",
     "Notes/Alternative Props Syntax in React.md",
     "Notes/useState Hook in React.md",
-    "Notes/Miscellaneous Notes on Learning Express.md",
     "Prompts for AI.md",
     "Notes/What is FormData.md",
     "What Data Types Go in a Request Body.md",
