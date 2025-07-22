@@ -11,17 +11,14 @@
             "id": "f36c97acdec88551",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -278.304212367008,
-                  "y": -1298.3990181475638,
-                  "zoom": -1.5870947617010227
-                }
+                "file": "Prompts for AI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Prompts for AI"
             }
           },
           {
@@ -52,8 +49,7 @@
               "title": "Miscellaneous Notes on Learning Express"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b739ae003491c8",
+  "active": "f36c97acdec88551",
   "lastOpenFiles": [
     "Dashboard.canvas",
     "Notes/Templating Engine in Express.md",
