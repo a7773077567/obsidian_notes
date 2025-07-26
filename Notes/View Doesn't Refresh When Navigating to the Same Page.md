@@ -14,3 +14,8 @@ resource_1: https://router.vuejs.org/guide/advanced/navigation-guards.html#In-Co
 這段說明可以在文件的 Navigation Guard -> In-Component Guard 的 beforeRouteUpdate 的 demo 註解看到 😡：
 `= this.resource_1`
 
+有幾個方式可以解決：
+1. 在 `<RouterView>` 上使用 key 屬性並綁定 $route.fullPath 來強制畫面重新渲染
+2. 使用 watch 監聽 route，當 route 改變就重新獲取資料
+3. 在 beforeEach hook 使用 window.location.reload() 強制 reload 頁面
+4. 給一個空的類似 middleware 的頁面讓路徑不同在 redirect (不確定是否可行)

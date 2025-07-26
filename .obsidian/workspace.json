@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -65.50129580361472,
-                  "y": -1945.1601644086254,
-                  "zoom": -0.13042809503435618
+                  "x": -845.861329881153,
+                  "y": -450.4104256786179,
+                  "zoom": -1.3170947617010222
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "View Doesn't Refresh When Navigating to the Same Page.md",
+                "file": "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,8 +52,7 @@
               "title": "Miscellaneous Notes on Learning Express"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac0b77f1624d509c",
+  "active": "22d333479fecad79",
   "lastOpenFiles": [
+    "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
     "Dashboard.canvas",
-    "View Doesn't Refresh When Navigating to the Same Page.md",
     "Notes/Checking Out Pull Request Locally.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "Notes/Templating Engine in Express.md",
