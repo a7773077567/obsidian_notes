@@ -11,17 +11,14 @@
             "id": "22d333479fecad79",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -845.861329881153,
-                  "y": -450.4104256786179,
-                  "zoom": -1.3170947617010222
-                }
+                "file": "Notes/Miscellaneous Notes on Learning Express.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Miscellaneous Notes on Learning Express"
             }
           },
           {
@@ -226,10 +223,10 @@
   },
   "active": "22d333479fecad79",
   "lastOpenFiles": [
-    "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
     "Dashboard.canvas",
-    "Notes/Checking Out Pull Request Locally.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
+    "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
+    "Notes/Checking Out Pull Request Locally.md",
     "Notes/Templating Engine in Express.md",
     "Prompts for AI.md",
     "Notes/Miscellaneous Nots on Learning React.md",
