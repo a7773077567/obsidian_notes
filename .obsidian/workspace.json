@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "26de6638c52ab108",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "1303c4ad065b800c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-02 15.55.50.excalidraw"
+            }
+          },
+          {
             "id": "ac0b77f1624d509c",
             "type": "leaf",
             "state": {
@@ -49,7 +73,8 @@
               "title": "Miscellaneous Notes on Learning Express"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "right": {
     "id": "a1b8018fbad3638d",
@@ -207,10 +233,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,11 +246,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "vscode-editor:Create Code File": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22d333479fecad79",
+  "active": "1303c4ad065b800c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
+    "Excalidraw",
     "Dashboard.canvas",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
@@ -268,7 +299,6 @@
     "My code file.ts",
     "Notes",
     "test",
-    "123",
-    "Home"
+    "123"
   ]
 }
