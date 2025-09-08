@@ -6,14 +6,13 @@ views:
     filters:
       and:
         - category == "note"
-        - type == "info"
         - file.tags.contains("ts")
     order:
       - file.name
       - description
     sort:
-      - property: category
-        direction: DESC
+      - property: file.name
+        direction: ASC
     columnSize:
       file.name: 298
   - type: cards
