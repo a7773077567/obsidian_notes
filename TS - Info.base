@@ -7,11 +7,13 @@ views:
       and:
         - category == "note"
         - file.tags.contains("ts")
+        - type == "info"
     order:
       - file.name
+      - type
       - description
     sort:
-      - property: file.name
+      - property: type
         direction: ASC
     columnSize:
       file.name: 298
