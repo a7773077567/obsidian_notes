@@ -1,0 +1,20 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - category == "note"
+        - type == "info"
+        - file.tags.contains("ts")
+    order:
+      - file.name
+      - description
+    sort:
+      - property: category
+        direction: DESC
+    columnSize:
+      file.name: 298
+  - type: cards
+    name: View

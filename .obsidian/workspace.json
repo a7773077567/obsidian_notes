@@ -11,10 +11,13 @@
             "id": "1cb46a7ebdd91e4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "JS Bases.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "JS Bases"
             }
           }
         ]
@@ -74,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353,
-    "collapsed": true
+    "width": 353
   },
   "right": {
     "id": "a1b8018fbad3638d",
@@ -195,6 +197,13 @@
   },
   "active": "1cb46a7ebdd91e4e",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Dashboard.canvas",
+    "JS Bases.base",
+    "Untitled 1.md",
+    "Notes/Mapped Types.md",
+    "Notes/Ways to Define Function Signatures.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
@@ -204,7 +213,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Dashboard.canvas",
     "Notes/Checking Out Pull Request Locally.md",
     "Notes/Templating Engine in Express.md",
     "Prompts for AI.md",
@@ -221,11 +229,6 @@
     "Index/Problem.md",
     "Index/VSCode.md",
     "Index/GCP.md",
-    "Index/AWS.md",
-    "Index/Git.md",
-    "Index/React.md",
-    "Index/Vue.md",
-    "Index/Typescript.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
@@ -241,7 +244,6 @@
     "Canvas",
     "Meetings",
     "Indices",
-    "My code file.ts",
-    "Notes"
+    "My code file.ts"
   ]
 }
