@@ -11,13 +11,14 @@
             "id": "1cb46a7ebdd91e4e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TS - Problem.base",
-                "viewName": "Table"
+                "file": "Notes/Mapped Types.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "TS - Problem"
+              "icon": "lucide-file",
+              "title": "Mapped Types"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Notes/Mapped Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks for Mapped Types"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Mapped Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mapped Types"
             }
           },
           {
@@ -172,14 +174,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "61388090f1b464b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/Mapped Types.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Mapped Types"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +211,14 @@
   "active": "1cb46a7ebdd91e4e",
   "lastOpenFiles": [
     "TS - Info.base",
+    "Dashboard.canvas",
+    "Prompts for AI.md",
     "TS - Problem.base",
-    "Notes/Vue Router Hook Causing Infinite Page Loop.md",
-    "TS - Problem.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Dashboard.canvas",
+    "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
+    "Notes/Vue Router Hook Causing Infinite Page Loop.md",
+    "TS - Problem.md",
     "Notes/Mapped Types.md",
     "Notes/Ways to Define Function Signatures.md",
     "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
@@ -217,7 +232,6 @@
     "Excalidraw",
     "Notes/Checking Out Pull Request Locally.md",
     "Notes/Templating Engine in Express.md",
-    "Prompts for AI.md",
     "Notes/Miscellaneous Nots on Learning React.md",
     "Notes/Types of Errors in JS.md",
     "Notes/The Path in app.use vs app.Method.md",
@@ -228,7 +242,6 @@
     "Index/Info.md",
     "Index/Tip.md",
     "Notes/req.url Always Gives Me Root Path No Matter What Path I Use.md",
-    "Index/Problem.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
