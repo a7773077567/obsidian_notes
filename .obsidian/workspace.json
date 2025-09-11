@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mapped Types"
             }
+          },
+          {
+            "id": "e15091ec6695ecff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-11 19.42.08.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Mapped Types.md"
+                "file": "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Mapped Types"
+              "title": "File properties for Drawing 2025-09-11 19.42.08.excalidraw"
             }
           }
         ],
@@ -208,8 +221,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1cb46a7ebdd91e4e",
+  "active": "e15091ec6695ecff",
   "lastOpenFiles": [
+    "Notes/Mapped Types.md",
+    "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
     "TS - Info.base",
     "Dashboard.canvas",
     "Prompts for AI.md",
@@ -219,7 +234,6 @@
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
     "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "TS - Problem.md",
-    "Notes/Mapped Types.md",
     "Notes/Ways to Define Function Signatures.md",
     "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
