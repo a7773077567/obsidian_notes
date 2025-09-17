@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "953e81d6db705c76",
+        "id": "46ff851881732e21",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb46a7ebdd91e4e",
+            "id": "d5b297946b55f455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mapped Types.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mapped Types"
-            }
-          },
-          {
-            "id": "e15091ec6695ecff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-11 19.42.08.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2025-09-11 19.42.08.excalidraw"
+              "title": "File properties"
             }
           }
         ],
@@ -205,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,9 +203,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e15091ec6695ecff",
+  "active": "d5b297946b55f455",
   "lastOpenFiles": [
     "Notes/Mapped Types.md",
+    "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
     "TS - Info.base",
     "Dashboard.canvas",
@@ -255,7 +238,6 @@
     "What Data Types Go in a Request Body.md",
     "Index/Info.md",
     "Index/Tip.md",
-    "Notes/req.url Always Gives Me Root Path No Matter What Path I Use.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
