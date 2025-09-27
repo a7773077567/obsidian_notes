@@ -125,7 +125,7 @@
       }
     }
   },
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "2.15.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,

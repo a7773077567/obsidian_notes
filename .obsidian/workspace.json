@@ -11,10 +11,12 @@
             "id": "fe2a887f9f73e7a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-27 17.10.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-27 17.10.22.excalidraw"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "right": {
     "id": "a1b8018fbad3638d",
@@ -205,6 +208,7 @@
   },
   "active": "fe2a887f9f73e7a9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-27 17.10.22.excalidraw.md",
     "李方傑 - Jr. FrontEnd 應徵信-raw.md",
     "李方傑 - Jr. FrontEnd 應徵信.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
@@ -237,7 +241,6 @@
     "Notes/Alternative Props Syntax in React.md",
     "Notes/useState Hook in React.md",
     "Notes/What is FormData.md",
-    "What Data Types Go in a Request Body.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
