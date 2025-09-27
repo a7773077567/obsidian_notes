@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Node.excalidraw"
             }
+          },
+          {
+            "id": "8feae6bf15b805eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/React_Calendar.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "React_Calendar.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +218,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7928ec081beef6fc",
+  "active": "8feae6bf15b805eb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Node.excalidraw.md",
+    "Excalidraw/React_Calendar.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
@@ -239,7 +253,6 @@
     "Notes/The Path in app.use vs app.Method.md",
     "Notes/Alternative Props Syntax in React.md",
     "Notes/useState Hook in React.md",
-    "Notes/What is FormData.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
