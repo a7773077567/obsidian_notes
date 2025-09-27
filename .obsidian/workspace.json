@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "874893f043f1c7b3",
+        "id": "c21b19c9f26929e6",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2a887f9f73e7a9",
+            "id": "7928ec081beef6fc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-27 17.10.22.excalidraw.md"
+                "file": "Excalidraw/Node.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-27 17.10.22.excalidraw"
+              "title": "Node.excalidraw"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353,
-    "collapsed": true
+    "width": 353
   },
   "right": {
     "id": "a1b8018fbad3638d",
@@ -206,28 +205,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe2a887f9f73e7a9",
+  "active": "7928ec081beef6fc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-27 17.10.22.excalidraw.md",
-    "李方傑 - Jr. FrontEnd 應徵信-raw.md",
-    "李方傑 - Jr. FrontEnd 應徵信.md",
+    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
+    "Excalidraw/Node.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
-    "Notes/Mapped Types.md",
     "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
+    "Prompts for AI.md",
+    "李方傑 - Jr. FrontEnd 應徵信-raw.md",
+    "李方傑 - Jr. FrontEnd 應徵信.md",
+    "Notes/Mapped Types.md",
     "TS - Info.base",
     "Dashboard.canvas",
-    "Prompts for AI.md",
     "TS - Problem.base",
     "Untitled 1.md",
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
     "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "TS - Problem.md",
     "Notes/Ways to Define Function Signatures.md",
-    "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
     "Notes/Miscellaneous Notes on Learning Express.md",
     "Notes/View Doesn't Refresh When Navigating to the Same Page.md",
-    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded/Darken background color.md",
     "Excalidraw/Scripts/Downloaded",
