@@ -14,8 +14,9 @@ npm install express drizzle-orm pg jsonwebtoken bcrypt dotenv
 
 ## URL Routes
 
-| Method | Endpoint      | Description                        | Auth Required |
-| ------ | ------------- | ---------------------------------- | ------------- |
-| POST   | `/shorten`    | Create a short URL form a long one | ✅             |
-| GET    | `/:shortCode` | Redirect to the original URL       | ❌             |
-|        |               |                                    |               |
+| Method | Endpoint      | Description                                    | Auth Required |
+| ------ | ------------- | ---------------------------------------------- | ------------- |
+| POST   | `/shorten`    | Create a short URL form a long one             | ✅             |
+| GET    | `/:shortCode` | Redirect to the original URL                   | ❌             |
+| GET    | `/urls`       | Get all URLs created by the logged-in user     | ✅             |
+| DELETE | `/urls/:id`   | Delete a short URL (if it belongs to the user) | ✅             |
