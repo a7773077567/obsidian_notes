@@ -13,26 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Node.excalidraw.md"
+                "file": "Excalidraw/Node_MongoDB.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Node.excalidraw"
-            }
-          },
-          {
-            "id": "8feae6bf15b805eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/React_Calendar.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "React_Calendar.excalidraw"
+              "title": "Node_MongoDB.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8feae6bf15b805eb",
+  "active": "ee8473d337bc28dc",
   "lastOpenFiles": [
-    "Excalidraw/Node.excalidraw.md",
     "Excalidraw/React_Calendar.excalidraw.md",
+    "Excalidraw/Node_MongoDB.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
