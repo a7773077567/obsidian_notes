@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c21b19c9f26929e6",
+        "id": "61fa9d33dd892ded",
         "type": "tabs",
         "children": [
           {
-            "id": "7928ec081beef6fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Node_MongoDB.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Node_MongoDB.excalidraw"
-            }
-          },
-          {
-            "id": "6d0c66c4147c40e8",
+            "id": "dcdc188a2df11d20",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,8 +19,7 @@
               "title": "Node_MongoDB.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +208,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d0c66c4147c40e8",
+  "active": "dcdc188a2df11d20",
   "lastOpenFiles": [
-    "URL Shortener.md",
+    "Excalidraw/Drawing 2025-09-29 01.22.08.excalidraw.md",
     "Excalidraw/Node_MongoDB.excalidraw.md",
+    "Canvas/薪資詳情.canvas",
+    "URL Shortener.md",
     "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
@@ -255,7 +244,6 @@
     "Notes/Miscellaneous Nots on Learning React.md",
     "Notes/Types of Errors in JS.md",
     "Notes/The Path in app.use vs app.Method.md",
-    "Notes/Alternative Props Syntax in React.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
@@ -265,7 +253,6 @@
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
     "Attachments/SCR-20250629-mfis.png",
-    "Canvas/薪資詳情.canvas",
     "Index",
     "Attachments",
     "Canvas",
