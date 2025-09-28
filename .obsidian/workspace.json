@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Node_MongoDB.excalidraw"
             }
+          },
+          {
+            "id": "6d0c66c4147c40e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "URL Shortener.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "URL Shortener"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,18 +193,29 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "URL Shortener.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for URL Shortener"
+            }
+          },
+          {
+            "id": "c1498523e2a0eaec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +228,15 @@
       "command-palette:Open command palette": false,
       "vscode-editor:Create Code File": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee8473d337bc28dc",
+  "active": "6d0c66c4147c40e8",
   "lastOpenFiles": [
-    "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Node_MongoDB.excalidraw.md",
+    "URL Shortener.md",
+    "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
@@ -239,7 +267,6 @@
     "Notes/Types of Errors in JS.md",
     "Notes/The Path in app.use vs app.Method.md",
     "Notes/Alternative Props Syntax in React.md",
-    "Notes/useState Hook in React.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
