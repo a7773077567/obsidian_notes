@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "61fa9d33dd892ded",
+        "id": "ec407733797de678",
         "type": "tabs",
         "children": [
           {
-            "id": "dcdc188a2df11d20",
+            "id": "4d47ae2c012548bf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Node_MongoDB.excalidraw.md"
+                "file": "Excalidraw/URL_Shortener.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Node_MongoDB.excalidraw"
+              "title": "URL_Shortener.excalidraw"
             }
           }
         ]
@@ -207,12 +207,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ea45c56d52052935",
+  "active": "4d47ae2c012548bf",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/URL_Shortener.excalidraw.md",
     "Excalidraw/Node_MongoDB.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-29 01.22.08.excalidraw.md",
-    "Canvas/薪資詳情.canvas",
     "URL Shortener.md",
+    "Excalidraw/Drawing 2025-09-29 21.27.59.excalidraw.md",
+    "Canvas/薪資詳情.canvas",
     "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
@@ -241,8 +243,6 @@
     "Notes/Checking Out Pull Request Locally.md",
     "Notes/Templating Engine in Express.md",
     "Notes/Miscellaneous Nots on Learning React.md",
-    "Notes/Types of Errors in JS.md",
-    "Notes/The Path in app.use vs app.Method.md",
     "Attachments/SCR-20250711-tqil.png",
     "Attachments/SCR-20250710-ocbt.png",
     "Attachments/SCR-20250710-obdk.png",
