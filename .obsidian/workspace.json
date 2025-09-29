@@ -204,14 +204,13 @@
       "command-palette:Open command palette": false,
       "vscode-editor:Create Code File": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dcdc188a2df11d20",
+  "active": "ea45c56d52052935",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-29 01.22.08.excalidraw.md",
     "Excalidraw/Node_MongoDB.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-29 01.22.08.excalidraw.md",
     "Canvas/薪資詳情.canvas",
     "URL Shortener.md",
     "Excalidraw/React_Calendar.excalidraw.md",
