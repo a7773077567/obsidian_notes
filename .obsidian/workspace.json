@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Jest.excalidraw"
             }
+          },
+          {
+            "id": "1156367eab67369e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-13 22.06.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-13 22.06.42.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +232,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "491a572bdf80249b",
+  "active": "1156367eab67369e",
   "lastOpenFiles": [
-    "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-13 22.06.42.excalidraw.md",
+    "Excalidraw/Docker.excalidraw.md",
     "Cloud Altitude.md",
     "Excalidraw/Cloud_Altitude.excalidraw.md",
     "Excalidraw/Doubly Linked List.excalidraw.md",
@@ -253,7 +266,6 @@
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
     "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "TS - Problem.md",
-    "Notes/Ways to Define Function Signatures.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
