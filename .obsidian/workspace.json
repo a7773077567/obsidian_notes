@@ -20,15 +20,15 @@
             }
           },
           {
-            "id": "1af50cc6f250bec0",
+            "id": "491a572bdf80249b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Excalidraw/Jest.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "excalidraw-icon",
+              "title": "Jest.excalidraw"
             }
           }
         ],
@@ -220,13 +220,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ecffb15c13e849e2",
+  "active": "491a572bdf80249b",
   "lastOpenFiles": [
+    "Excalidraw/Docker.excalidraw.md",
+    "Excalidraw/Jest.excalidraw.md",
     "Cloud Altitude.md",
     "Excalidraw/Cloud_Altitude.excalidraw.md",
     "Excalidraw/Doubly Linked List.excalidraw.md",
     "URL Shortener.md",
-    "Excalidraw/Docker.excalidraw.md",
     "寵物品牌應徵信.md",
     "Excalidraw/URL Shortener.excalidraw.md",
     "Excalidraw/Node MongoDB.excalidraw.md",
@@ -253,7 +254,6 @@
     "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "TS - Problem.md",
     "Notes/Ways to Define Function Signatures.md",
-    "Notes/Miscellaneous Notes on Learning Express.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
