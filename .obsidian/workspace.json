@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "TDD.excalidraw"
             }
+          },
+          {
+            "id": "b93c6012ba31a6ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/OOP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "OOP.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,10 +244,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1156367eab67369e",
+  "active": "b93c6012ba31a6ae",
   "lastOpenFiles": [
-    "Excalidraw/Jest.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
+    "Excalidraw/OOP.excalidraw.md",
+    "Excalidraw/Jest.excalidraw.md",
     "財經M平方.md",
     "Excalidraw/Docker.excalidraw.md",
     "Cloud Altitude.md",
@@ -265,7 +278,6 @@
     "TS - Problem.base",
     "Untitled 1.md",
     "Notes/Type Problems with Dynamically Inherited Slots in Vue3.md",
-    "Notes/Vue Router Hook Causing Infinite Page Loop.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
