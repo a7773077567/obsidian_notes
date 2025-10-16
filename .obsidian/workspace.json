@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef56eb9c9977a6e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Docker.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Docker.excalidraw"
-            }
-          },
-          {
-            "id": "491a572bdf80249b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Jest.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Jest.excalidraw"
-            }
-          },
-          {
             "id": "1156367eab67369e",
             "type": "leaf",
             "state": {
@@ -69,8 +45,7 @@
               "title": "Rock Paper Scissor"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,14 +233,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "433eedab784facab",
+  "active": "1156367eab67369e",
   "lastOpenFiles": [
-    "Excalidraw/OOP.excalidraw.md",
-    "Rock Paper Scissor.md",
+    "Attachments/SCR-20251016-nfnp.png",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
-    "財經M平方.md",
+    "Rock Paper Scissor.md",
     "Excalidraw/Docker.excalidraw.md",
+    "Excalidraw/OOP.excalidraw.md",
+    "財經M平方.md",
     "Cloud Altitude.md",
     "Excalidraw/Cloud_Altitude.excalidraw.md",
     "Excalidraw/Doubly Linked List.excalidraw.md",
@@ -291,7 +267,6 @@
     "TS - Info.base",
     "Dashboard.canvas",
     "TS - Problem.base",
-    "Untitled 1.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -304,7 +279,6 @@
     "Attachments/SCR-20250710-cznj.png",
     "Attachments/s3-2.png",
     "Attachments/s3-1.png",
-    "Attachments/SCR-20250629-mfis.png",
     "Index",
     "Attachments",
     "Canvas",
