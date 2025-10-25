@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec407733797de678",
+        "id": "c8027322b6312e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "1156367eab67369e",
+            "id": "ef7c06b12934db6d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,18 +17,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "TDD.excalidraw"
-            }
-          },
-          {
-            "id": "b93c6012ba31a6ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/OOP.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "OOP.excalidraw"
             }
           }
         ]
@@ -219,11 +207,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1156367eab67369e",
+  "active": "ef7c06b12934db6d",
   "lastOpenFiles": [
-    "Attachments/SCR-20251023-obca.png",
-    "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/OOP.excalidraw.md",
+    "Dashboard.canvas",
+    "TS - Info.base",
+    "TS - Problem.base",
+    "Prompts for AI.md",
+    "Canvas/薪資詳情.canvas",
+    "Excalidraw/TDD.excalidraw.md",
+    "Attachments/SCR-20251023-obca.png",
     "Rock Paper Scissor.md",
     "Attachments/SCR-20251016-trfc.png",
     "Attachments/SCR-20251016-nfnp.png",
@@ -241,20 +234,15 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2025-09-29 21.27.59.excalidraw.md",
-    "Canvas/薪資詳情.canvas",
     "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
     "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
     "Excalidraw/Drawing 2025-09-04 15.02.27.excalidraw.md",
-    "Prompts for AI.md",
     "李方傑 - Jr. FrontEnd 應徵信-raw.md",
     "李方傑 - Jr. FrontEnd 應徵信.md",
     "Notes/Mapped Types.md",
-    "TS - Info.base",
-    "Dashboard.canvas",
-    "TS - Problem.base",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -265,7 +253,6 @@
     "Attachments/SCR-20250710-lmpq.png",
     "Attachments/SCR-20250710-lmjd.png",
     "Attachments/SCR-20250710-cznj.png",
-    "Attachments/s3-2.png",
     "Index",
     "Attachments",
     "Canvas",
