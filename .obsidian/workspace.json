@@ -11,15 +11,38 @@
             "id": "8efb6b5b8c37ac88",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6a8638f6d94a319c",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Cloud Altitude.excalidraw.md"
+                "file": "Excalidraw/Cloud_latitude_online_test.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Cloud Altitude.excalidraw"
+              "title": "Cloud_latitude_online_test.excalidraw"
+            }
+          },
+          {
+            "id": "82b3c0b364bdee80",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/cloud_latitude_interview.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cloud_latitude_interview.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,13 +230,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8efb6b5b8c37ac88",
+  "active": "82b3c0b364bdee80",
   "lastOpenFiles": [
-    "Excalidraw/TDD.excalidraw.md",
+    "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
+    "Excalidraw/cloud_latitude_interview.excalidraw.md",
+    "Excalidraw/Cloud Altitude.excalidraw.restored.md",
     "Excalidraw/Cloud Altitude.excalidraw.md",
+    "Excalidraw/TDD.excalidraw.md",
     "Cloud Altitude.md",
     "Excalidraw/Jest.excalidraw.md",
-    "Excalidraw/Cloud_Altitude.excalidraw.md",
     "Excalidraw/URL Shortener.excalidraw.md",
     "Excalidraw/OOP.excalidraw.md",
     "Excalidraw/Node MongoDB.excalidraw.md",
@@ -243,8 +268,6 @@
     "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2025-09-20 20.36.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-11 20.03.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-11 19.42.08.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
