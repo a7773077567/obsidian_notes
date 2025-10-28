@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "TDD.excalidraw"
             }
+          },
+          {
+            "id": "8efb6b5b8c37ac88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Cloud Altitude.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Cloud Altitude.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +220,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef7c06b12934db6d",
+  "active": "8efb6b5b8c37ac88",
   "lastOpenFiles": [
-    "Excalidraw/URL Shortener.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
+    "Excalidraw/Cloud Altitude.excalidraw.md",
+    "Excalidraw/URL Shortener.excalidraw.md",
     "Excalidraw/OOP.excalidraw.md",
     "Excalidraw/Node MongoDB.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
