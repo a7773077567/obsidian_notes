@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef7c06b12934db6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TDD.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TDD.excalidraw"
-            }
-          },
-          {
             "id": "8efb6b5b8c37ac88",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               "title": "Cloud Altitude.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 311
   },
   "right": {
     "id": "a1b8018fbad3638d",
@@ -222,9 +209,9 @@
   },
   "active": "8efb6b5b8c37ac88",
   "lastOpenFiles": [
-    "Cloud Altitude.md",
-    "Excalidraw/Cloud Altitude.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
+    "Excalidraw/Cloud Altitude.excalidraw.md",
+    "Cloud Altitude.md",
     "Excalidraw/Jest.excalidraw.md",
     "Excalidraw/Cloud_Altitude.excalidraw.md",
     "Excalidraw/URL Shortener.excalidraw.md",
