@@ -11,12 +11,10 @@
             "id": "538488d987a4e509",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/cloud_latitude_interview.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "cloud_latitude_interview.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -209,8 +207,8 @@
   },
   "active": "538488d987a4e509",
   "lastOpenFiles": [
-    "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
+    "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
     "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
