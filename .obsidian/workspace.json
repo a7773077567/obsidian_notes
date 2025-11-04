@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cf83e20899a3f1",
+        "id": "c2b21f775e6fb7c6",
         "type": "tabs",
         "children": [
           {
-            "id": "538488d987a4e509",
+            "id": "3ef10b066ea04a91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Command Line.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Command Line.excalidraw"
+            }
+          },
+          {
+            "id": "da9c5dee1369140c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-04 19.47.25.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +220,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "538488d987a4e509",
+  "active": "da9c5dee1369140c",
   "lastOpenFiles": [
+    "Excalidraw/Command Line.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
@@ -220,7 +238,6 @@
     "Excalidraw/OOP.excalidraw.md",
     "Excalidraw/Node MongoDB.excalidraw.md",
     "Excalidraw/Doubly Linked List.excalidraw.md",
-    "Excalidraw/Command Line.excalidraw.md",
     "Notes/Check if Time Duration Are Overlap.md",
     "Notes/Mapped Types.md",
     "Prompts for AI.md",
@@ -241,7 +258,6 @@
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2025-09-29 21.27.59.excalidraw.md",
     "Excalidraw/React_Calendar.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-02 15.55.50.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
