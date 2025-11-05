@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-11-04 19.47.25.excalidraw"
             }
+          },
+          {
+            "id": "254fff10d57274a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-05 12.11.56.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +232,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da9c5dee1369140c",
+  "active": "254fff10d57274a0",
   "lastOpenFiles": [
-    "Excalidraw/Command Line.excalidraw.md",
+    "Attachments/SCR-20251105-ladq.png",
     "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
+    "Excalidraw/Command Line.excalidraw.md",
     "Untitled.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
@@ -256,8 +270,6 @@
     "Attachments/SCR-20251016-nfnp.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2025-09-29 21.27.59.excalidraw.md",
-    "Excalidraw/React_Calendar.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
