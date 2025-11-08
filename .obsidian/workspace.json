@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-11-05 12.11.56.excalidraw"
             }
+          },
+          {
+            "id": "b13cf681f57f62b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ERD.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ERD.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,15 +244,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "254fff10d57274a0",
+  "active": "b13cf681f57f62b0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
+    "Excalidraw/ERD.excalidraw.md",
     "Attachments/SCR-20251107-juhj.png",
     "Attachments/SCR-20251105-lvae.png",
     "Attachments/SCR-20251105-luog.png",
     "Attachments/SCR-20251105-ldnd.png",
     "Attachments/SCR-20251105-ladq.png",
     "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
     "Excalidraw/Command Line.excalidraw.md",
     "Untitled.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
@@ -279,7 +292,6 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "Attachments/SCR-20250711-tqil.png",
-    "Attachments/SCR-20250710-ocbt.png",
     "Index",
     "Attachments",
     "Canvas",
