@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b21f775e6fb7c6",
+        "id": "d3e1ca871580760c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef10b066ea04a91",
+            "id": "b6c0049794fdb63e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Command Line.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Command Line.excalidraw"
-            }
-          },
-          {
-            "id": "da9c5dee1369140c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-04 19.47.25.excalidraw"
-            }
-          },
-          {
-            "id": "254fff10d57274a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-05 12.11.56.excalidraw"
-            }
-          },
-          {
-            "id": "b13cf681f57f62b0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Docker.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Docker.excalidraw"
-            }
-          },
-          {
-            "id": "e649db319b9340de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,22 +205,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc74b30da3e7ec19",
+  "active": "b6c0049794fdb63e",
   "lastOpenFiles": [
-    "Excalidraw/ERD.excalidraw.md",
+    "Excalidraw/Command Line.excalidraw.md",
+    "Excalidraw/一例一休.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
+    "Excalidraw/Docker.excalidraw.md",
+    "Excalidraw/ERD.excalidraw.md",
     "Attachments/SCR-20251107-juhj.png",
     "Attachments/SCR-20251105-lvae.png",
     "Attachments/SCR-20251105-luog.png",
     "Attachments/SCR-20251105-ldnd.png",
     "Attachments/SCR-20251105-ladq.png",
-    "Excalidraw/Drawing 2025-11-04 19.47.25.excalidraw.md",
-    "Excalidraw/Command Line.excalidraw.md",
     "Untitled.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
-    "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
     "Dashboard.canvas",
     "Excalidraw/Cloud Altitude.excalidraw.restored.md",
