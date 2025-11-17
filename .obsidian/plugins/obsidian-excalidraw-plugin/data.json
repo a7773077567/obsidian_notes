@@ -28459,7 +28459,7 @@
             "y": 338.83587294718825,
             "strokeColor": "#881fa3",
             "backgroundColor": "#be4bdb",
-            "width": 116.42036295658869,
+            "width": 116.4203629565887,
             "height": 103.65107323746608,
             "seed": 1445523839,
             "groupIds": [],
@@ -29514,7 +29514,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -29565,7 +29566,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -29620,7 +29622,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -29679,7 +29682,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -29730,7 +29734,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           },
           {
             "type": "line",
@@ -29785,7 +29790,8 @@
             "link": null,
             "locked": false,
             "startBinding": null,
-            "endBinding": null
+            "endBinding": null,
+            "polygon": false
           }
         ],
         "id": "lk323NEOBUQEuDOMzwyIo",
@@ -30117,7 +30123,8 @@
             "boundElements": [],
             "updated": 1762955353728,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "id": "LX6kTl9A8K36ld2MEV4tI",
@@ -31250,7 +31257,8 @@
             "boundElements": [],
             "updated": 1762955136518,
             "link": null,
-            "locked": false
+            "locked": false,
+            "polygon": false
           },
           {
             "type": "rectangle",

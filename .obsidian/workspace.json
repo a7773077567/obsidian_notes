@@ -54,9 +54,21 @@
               "icon": "excalidraw-icon",
               "title": "Docker.excalidraw"
             }
+          },
+          {
+            "id": "e649db319b9340de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b13cf681f57f62b0",
+  "active": "cc74b30da3e7ec19",
   "lastOpenFiles": [
     "Excalidraw/ERD.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
