@@ -11,10 +11,12 @@
             "id": "b6c0049794fdb63e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Docker.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Docker.excalidraw"
             }
           }
         ]
