@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "ERD.excalidraw"
             }
+          },
+          {
+            "id": "be8faa1952ba4873",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ITRI.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ITRI.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,19 +220,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6c0049794fdb63e",
+  "active": "be8faa1952ba4873",
   "lastOpenFiles": [
+    "Excalidraw/ERD.excalidraw.md",
+    "Excalidraw/ITRI.excalidraw.md",
+    "ITRI.md",
     "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Command Line.excalidraw.md",
     "Excalidraw/一例一休.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
-    "Excalidraw/ERD.excalidraw.md",
     "Attachments/SCR-20251107-juhj.png",
     "Attachments/SCR-20251105-lvae.png",
     "Attachments/SCR-20251105-luog.png",
     "Attachments/SCR-20251105-ldnd.png",
     "Attachments/SCR-20251105-ladq.png",
-    "Untitled.md",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Jest.excalidraw.md",
@@ -243,7 +257,6 @@
     "TS - Info.base",
     "Uncategorized/HaoHao-raw.md",
     "Uncategorized/HaoHao.md",
-    "Uncategorized/寵物品牌.md",
     "Uncategorized",
     "Attachments/SCR-20251023-obca.png",
     "Attachments/SCR-20251016-trfc.png",
