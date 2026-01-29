@@ -4,102 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e1ca871580760c",
+        "id": "2602a76d4fbaabba",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c0049794fdb63e",
+            "id": "51c8d4aa346e8720",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/ERD.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ERD.excalidraw"
-            }
-          },
-          {
-            "id": "be8faa1952ba4873",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 1229.2985689916422,
-                  "y": 1516.3701777539745,
-                  "zoom": -1.1402593662275544
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "5494a3427bec22af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-01 23.13.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-01 23.13.10.excalidraw"
-            }
-          },
-          {
-            "id": "221ee68b54ca21c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "0f41afbbd805913a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts for AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompts for AI"
-            }
-          },
-          {
-            "id": "160a66e7b9c976c4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ITRI_Frontend.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ITRI_Frontend.excalidraw"
-            }
-          },
-          {
-            "id": "6dfea086eb7caaed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Drawing 2026-01-29 20.48.03.excalidraw"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,16 +207,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "505f3f41b29620b2",
+  "active": "51c8d4aa346e8720",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Excalidraw/ITRI_Frontend.excalidraw.md",
-    "Prompts for AI.md",
-    "ITRI_Frontend.md",
-    "Attachments/download.jpg",
+    "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
+    "Excalidraw/ERD.excalidraw.md",
     "Dashboard.canvas",
     "Excalidraw/Drawing 2026-01-01 23.13.10.excalidraw.md",
-    "Excalidraw/ERD.excalidraw.md",
+    "Prompts for AI.md",
+    "Excalidraw/ITRI_Frontend.excalidraw.md",
+    "Untitled.md",
+    "ITRI_Frontend.md",
+    "Attachments/download.jpg",
     "Excalidraw/Doubly Linked List.excalidraw.md",
     "Excalidraw/ITRI.excalidraw.md",
     "Attachments/image_0.png",
@@ -326,7 +247,6 @@
     "Notes/Check if Time Duration Are Overlap.md",
     "Notes/Mapped Types.md",
     "Canvas/薪資詳情.canvas",
-    "Rock Paper Scissor.md",
     "TS - Problem.base",
     "TS - Info.base",
     "Uncategorized",
