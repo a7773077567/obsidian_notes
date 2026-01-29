@@ -85,9 +85,21 @@
               "icon": "excalidraw-icon",
               "title": "ITRI_Frontend.excalidraw"
             }
+          },
+          {
+            "id": "6dfea086eb7caaed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -275,10 +287,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee8473d337bc28dc",
+  "active": "505f3f41b29620b2",
   "lastOpenFiles": [
-    "Excalidraw/ITRI_Frontend.excalidraw.md",
     "Untitled.md",
+    "Excalidraw/ITRI_Frontend.excalidraw.md",
     "Prompts for AI.md",
     "ITRI_Frontend.md",
     "Attachments/download.jpg",
