@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-29 20.48.03.excalidraw"
             }
+          },
+          {
+            "id": "fde132665654aa49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-03 13.16.31.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,9 +220,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "51c8d4aa346e8720",
+  "active": "fde132665654aa49",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
     "Dashboard.canvas",
     "Excalidraw/Drawing 2026-01-01 23.13.10.excalidraw.md",
@@ -245,7 +259,6 @@
     "Cloud Altitude.md",
     "Excalidraw/OOP.excalidraw.md",
     "Notes/Check if Time Duration Are Overlap.md",
-    "Notes/Mapped Types.md",
     "Canvas/薪資詳情.canvas",
     "TS - Problem.base",
     "TS - Info.base",
