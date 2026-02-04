@@ -30,21 +30,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-02-03 13.16.31.excalidraw"
             }
-          },
-          {
-            "id": "d67bd3da1ea933fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-03 23.42.38.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +220,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d67bd3da1ea933fb",
+  "active": "ee8473d337bc28dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
     "Dashboard.canvas",
