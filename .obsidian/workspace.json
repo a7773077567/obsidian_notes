@@ -11,12 +11,12 @@
             "id": "870c780a53fa3150",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-03 13.16.31.excalidraw"
             }
           }
         ]
@@ -207,28 +207,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "870c780a53fa3150",
+  "active": "bdd0b3c5005f9b62",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
-    "Dashboard.canvas",
+    "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
     "Excalidraw/Drawing 2026-01-01 23.13.10.excalidraw.md",
+    "Excalidraw/Doubly Linked List.excalidraw.md",
+    "Excalidraw/Docker.excalidraw.md",
+    "Excalidraw/Command Line.excalidraw.md",
+    "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
     "Prompts for AI.md",
+    "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md",
+    "Dashboard.canvas",
     "Excalidraw/ITRI_Frontend.excalidraw.md",
     "Untitled.md",
     "ITRI_Frontend.md",
     "Attachments/download.jpg",
-    "Excalidraw/Doubly Linked List.excalidraw.md",
     "Excalidraw/ITRI.excalidraw.md",
     "Attachments/image_0.png",
     "Excalidraw/Jest.excalidraw.md",
     "Excalidraw/Node MongoDB.excalidraw.md",
     "Excalidraw/URL Shortener.excalidraw.md",
-    "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
-    "Excalidraw/Command Line.excalidraw.md",
-    "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Drawing 2025-11-05 12.11.56.excalidraw.md",
     "Attachments/SCR-20251215-kaqg.jpeg",
     "Attachments/SCR-20251212-rsyd.png",
