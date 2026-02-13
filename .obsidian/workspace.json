@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c90aa68d7b6abb2c",
+        "id": "d746ecc6e156a40d",
         "type": "tabs",
         "children": [
           {
-            "id": "870c780a53fa3150",
+            "id": "cf08dc92686af6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-03 13.16.31.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -207,7 +205,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "870c780a53fa3150",
+  "active": "cf08dc92686af6a8",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
