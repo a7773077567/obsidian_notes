@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-02-24 23.47.30.excalidraw"
             }
+          },
+          {
+            "id": "32e77cf257c398c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/長照開發討論.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "長照開發討論.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,9 +220,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85585474f7cc4052",
+  "active": "32e77cf257c398c5",
   "lastOpenFiles": [
+    "Attachments/SCR-20260226-loxh.png",
     "Excalidraw/Drawing 2026-02-24 23.47.30.excalidraw.md",
+    "Excalidraw/長照開發討論.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
@@ -244,8 +259,6 @@
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Cloud Altitude.excalidraw.restored.md",
-    "Excalidraw/Cloud Altitude.excalidraw.md",
-    "Cloud Altitude.md",
     "Canvas/薪資詳情.canvas",
     "TS - Problem.base",
     "TS - Info.base",
