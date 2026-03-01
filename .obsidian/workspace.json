@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "長照開發討論.excalidraw"
             }
+          },
+          {
+            "id": "193c43c71cc536f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-01 20.52.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-01 20.52.11.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,11 +232,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32e77cf257c398c5",
+  "active": "193c43c71cc536f0",
   "lastOpenFiles": [
+    "Excalidraw/長照開發討論.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-01 20.52.11.excalidraw.md",
     "Attachments/SCR-20260226-loxh.png",
     "Excalidraw/Drawing 2026-02-24 23.47.30.excalidraw.md",
-    "Excalidraw/長照開發討論.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
@@ -255,7 +268,6 @@
     "ITRI.md",
     "Excalidraw/一例一休.excalidraw.md",
     "Attachments/SCR-20251107-juhj.png",
-    "Attachments/SCR-20251105-lvae.png",
     "Excalidraw/cloud_latitude_interview.excalidraw.md",
     "Excalidraw/TDD.excalidraw.md",
     "Excalidraw/Cloud Altitude.excalidraw.restored.md",
