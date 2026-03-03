@@ -35,12 +35,14 @@
             "id": "193c43c71cc536f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-01 20.52.11.excalidraw.md"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-01 20.52.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
@@ -234,6 +236,7 @@
   },
   "active": "193c43c71cc536f0",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2026-03-01 20.52.11.excalidraw.md",
     "Attachments/北05加入廠別概念 3022129ec889806ba1f8d003a65940d0.html",
@@ -250,7 +253,6 @@
     "Excalidraw/長照開發討論.excalidraw.md",
     "Attachments/SCR-20260226-loxh.png",
     "Excalidraw/Drawing 2026-02-24 23.47.30.excalidraw.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2026-02-03 13.16.31.excalidraw.md",
     "Excalidraw/ERD.excalidraw.md",
     "Excalidraw/Drawing 2026-01-29 20.48.03.excalidraw.md",
