@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "0323 API 變動"
             }
+          },
+          {
+            "id": "adbfdc599341e707",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,7 +246,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dcf22a52f9b0304e",
+  "active": "adbfdc599341e707",
   "lastOpenFiles": [
     "Excalidraw/長照開發討論.excalidraw.md",
     "0323 API 變動.md",
