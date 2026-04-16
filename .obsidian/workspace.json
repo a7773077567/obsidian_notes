@@ -11,10 +11,12 @@
             "id": "6fe6d2d0ca5f253f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-16 17.37.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-16 17.37.17.excalidraw"
             }
           }
         ]
@@ -208,6 +210,7 @@
   },
   "active": "6fe6d2d0ca5f253f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-16 17.37.17.excalidraw.md",
     "Excalidraw/Drawing 2026-04-02 15.10.50.excalidraw.md",
     "0323 API 變動.md",
     "Excalidraw/Drawing 2026-02-24 23.47.30.excalidraw.md",
@@ -238,7 +241,6 @@
     "Prompts for AI.md",
     "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md",
     "Dashboard.canvas",
-    "Excalidraw/ITRI_Frontend.excalidraw.md",
     "Attachments/download.jpg",
     "Attachments/image_0.png",
     "Attachments/SCR-20251215-kaqg.jpeg",
