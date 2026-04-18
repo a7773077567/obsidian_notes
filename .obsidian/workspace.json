@@ -11,10 +11,12 @@
             "id": "68cf20e6ee9c9c49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-18 13.28.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-18 13.28.21.excalidraw"
             }
           }
         ]
@@ -208,6 +210,7 @@
   },
   "active": "68cf20e6ee9c9c49",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-18 13.28.21.excalidraw.md",
     "Excalidraw/Drawing 2026-04-16 17.37.17.excalidraw.md",
     "Excalidraw/Drawing 2026-04-02 15.10.50.excalidraw.md",
     "0323 API 變動.md",
@@ -237,7 +240,6 @@
     "Excalidraw/Command Line.excalidraw.md",
     "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
     "Prompts for AI.md",
-    "Excalidraw/Drawing 2026-02-03 23.42.38.excalidraw.md",
     "Dashboard.canvas",
     "Attachments/download.jpg",
     "Attachments/image_0.png",
