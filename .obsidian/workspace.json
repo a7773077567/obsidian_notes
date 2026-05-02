@@ -11,10 +11,12 @@
             "id": "6c79eb56e4f7c6b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-03 01.41.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-03 01.41.43.excalidraw"
             }
           }
         ]
@@ -177,9 +179,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-03 01.41.43.excalidraw.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Drawing 2026-05-03 01.41.43.excalidraw"
             }
           }
         ],
@@ -187,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +210,7 @@
   },
   "active": "6c79eb56e4f7c6b3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-03 01.41.43.excalidraw.md",
     "Excalidraw/Drawing 2026-04-18 13.28.21.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2026-04-16 17.37.17.excalidraw.md",
@@ -234,7 +240,6 @@
     "Excalidraw/Doubly Linked List.excalidraw.md",
     "Excalidraw/Docker.excalidraw.md",
     "Excalidraw/Command Line.excalidraw.md",
-    "Excalidraw/Cloud_latitude_online_test.excalidraw.md",
     "Dashboard.canvas",
     "Attachments/download.jpg",
     "Attachments/image_0.png",
