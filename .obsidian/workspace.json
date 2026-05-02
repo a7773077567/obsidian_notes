@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d26579ffa553de2",
+        "id": "04a0ebf05113c5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "68cf20e6ee9c9c49",
+            "id": "6c79eb56e4f7c6b3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-18 13.28.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-18 13.28.21.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,11 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/Node_MongoDB.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Node_MongoDB.excalidraw"
+              "title": "File properties"
             }
           }
         ],
@@ -191,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,10 +203,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "68cf20e6ee9c9c49",
+  "active": "6c79eb56e4f7c6b3",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2026-04-18 13.28.21.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2026-04-16 17.37.17.excalidraw.md",
     "Excalidraw/Drawing 2026-04-02 15.10.50.excalidraw.md",
     "0323 API 變動.md",
